@@ -1,0 +1,4 @@
+É um texto, conteúdo ou palavra
+que sofreu um processo de criptografia
+fazendo com que após esse processo o contexto 
+apenas possa ser obtido atrvés de um programa.
